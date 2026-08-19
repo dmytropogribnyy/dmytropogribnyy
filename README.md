@@ -1,8 +1,11 @@
 # Dmytro Pogribnyy
 
-**Senior QA Automation Engineer / SDET** based in Bratislava, Slovakia.
+**Senior SDET / Test Automation Engineer · AI Assurance · Legal & Regulatory · PhD**  
+Bratislava, Slovakia · EU-based B2B Contractor
 
-I design maintainable test automation systems, stabilize flaky suites, modernize legacy coverage, and improve release confidence across SaaS, enterprise, and AI-assisted products.
+I design maintainable test automation systems, stabilize flaky suites, modernize legacy coverage, and improve release confidence across SaaS, enterprise, regulated, and AI-assisted products.
+
+My engineering background is complemented by prior legal practice and academic research in commercial/economic, business, and corporate law, including technology regulation, cryptocurrency, blockchain, and virtual assets.
 
 ## Core focus
 
@@ -11,7 +14,8 @@ I design maintainable test automation systems, stabilize flaky suites, modernize
 - CI/CD quality gates, selective execution, and failure evidence
 - Selenium/Cypress-to-Playwright migration
 - QA audits, release readiness, and ongoing quality support
-- AI-assisted application testing with senior human review
+- AI/LLM assurance: OpenAI API, LiteLLM, LLM evaluation, MCP tool calling, deterministic validation, model fallbacks, and human-in-the-loop controls
+- Legal & regulatory perspective: commercial/corporate law, technology risk, cryptocurrency, blockchain, and virtual assets
 
 ## Selected engineering work
 
@@ -30,13 +34,20 @@ Playwright + TypeScript framework with risk-based UI/API coverage, typed contrac
 ### [Excel Online Automation](https://github.com/dmytropogribnyy/playwright-excel)
 Focused Playwright case covering Excel Online iframes, canvas interaction, clipboard permissions, and deterministic validation of the `TODAY()` function.
 
-## Experience
+## Experience & background
 
 - 8+ years in software quality engineering
-- ISTQB Certified
-- QA engineering career started in 2017
+- ISTQB Certified Tester
+- PhD in Business Law
+- Prior licensed attorney / advocate and private notarial practice in Ukraine
+- Long academic teaching and legal-research career in commercial/economic, business, and corporate law
 - EU-based independent B2B contractor
-- Available for remote EU engagements and Bratislava hybrid work
+- Available for international remote engagements and Bratislava hybrid/onsite work
+
+## CVs
+
+- [Senior SDET / Test Automation CV](https://dmytropogribnyy.github.io/Dmytro_Pogribnyy_Senior_SDET_CV.pdf)
+- [Tech & Legal CV](https://dmytropogribnyy.github.io/Dmytro_Pogribnyy_Senior_Technology_CV.pdf)
 
 ## Links
 
