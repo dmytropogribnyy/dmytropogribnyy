@@ -1,53 +1,47 @@
 # Dmytro Pogribnyy
 
-**Senior SDET / Test Automation Engineer · AI Assurance · Legal & Regulatory · PhD**  
-Bratislava, Slovakia · EU-based B2B Contractor
+**Legal AI & LLM Evaluation · Senior SDET / QA Automation · PhD in Business Law**  
+Bratislava, Slovakia · EU-based B2B contractor · Available immediately
 
-I design maintainable test automation systems, stabilize flaky suites, modernize legacy coverage, and improve release confidence across SaaS, enterprise, regulated, and AI-assisted products.
+I combine 8+ years in software quality and automation with recent independent AI/LLM evaluation work, a PhD in Business Law, and prior legal practice in Ukraine. I build reliable automation, validate AI outputs and translate complex requirements into clear, testable criteria.
 
-My engineering background is complemented by prior legal practice and academic research in commercial/economic, business, and corporate law, including technology regulation, cryptocurrency, blockchain, and virtual assets.
+My work spans Legal AI, AI assurance and Senior SDET engineering. Python, TypeScript/JavaScript and Playwright connect my practical engineering work with a structured approach to requirements, risk and evidence.
 
 ## Core focus
 
-- Playwright + TypeScript automation architecture
-- UI, REST API, integration, and end-to-end testing
-- CI/CD quality gates, selective execution, and failure evidence
-- Selenium/Cypress-to-Playwright migration
-- QA audits, release readiness, and ongoing quality support
-- AI/LLM assurance: OpenAI API, LiteLLM, LLM evaluation, MCP tool calling, deterministic validation, model fallbacks, and human-in-the-loop controls
-- Legal & regulatory perspective: commercial/corporate law, technology risk, cryptocurrency, blockchain, and virtual assets
+- **AI/LLM evaluation and validation:** custom evaluation, schema-based and deterministic checks, model fallbacks, failure analysis and human-review controls
+- **Legal AI and Legal Engineering:** legal-domain review criteria, legal workflow analysis and technology regulation
+- **Automation architecture:** Playwright, Selenium, pytest, Python and TypeScript/JavaScript for UI, API, integration and end-to-end testing
+- **Release reliability:** CI/CD quality gates, risk-based coverage, failure diagnostics and stabilization of flaky suites
+- **Framework modernization:** Selenium/Cypress-to-Playwright migration and maintainable regression coverage
 
 ## Selected engineering work
 
 ### [AI QA Factory](https://github.com/dmytropogribnyy/ai-qa-factory)
-Guided AI-assisted QA automation workbench with controlled execution, evidence collection, approval gates, operator workflows, and release-focused reporting.
+Independent Python AI automation project with OpenAI/Claude integration through LiteLLM, custom LLM evaluation, deterministic output validation, MCP tool calling, bounded workflows and human-approval gates.
 
 ### [Northstar Commerce Quality Framework](https://github.com/dmytropogribnyy/playwright-cypress-automation)
-Commerce quality framework demonstrating Cypress-to-Playwright migration, UI/API coverage, cross-browser validation, CI release gates, and actionable failure evidence.
+Commerce quality framework demonstrating Cypress-to-Playwright migration, UI/API coverage, cross-browser validation, CI release gates and actionable failure evidence.
 
 ### [Darrow Code Insight](https://github.com/dmytropogribnyy/darrow-code-insight)
-Public product and engineering case study for an independently developed AI-assisted platform, including real product visuals, workflow architecture, reliability controls, and dated verification evidence.
+Public product and engineering case study for an independently developed AI-assisted platform, including product visuals, workflow architecture, reliability controls and dated verification evidence.
 
 ### [Moxymind Quality Automation](https://github.com/dmytropogribnyy/moxymind-automation)
-Playwright + TypeScript framework with risk-based UI/API coverage, typed contracts, runtime schema validation, CI execution, and diagnostic evidence.
+Playwright and TypeScript framework with risk-based UI/API coverage, typed contracts, runtime schema validation, CI execution and diagnostic evidence.
 
 ### [Excel Online Automation](https://github.com/dmytropogribnyy/playwright-excel)
-Focused Playwright case covering Excel Online iframes, canvas interaction, clipboard permissions, and deterministic validation of the `TODAY()` function.
+Focused Playwright case covering Excel Online iframes, canvas interaction, clipboard permissions and deterministic validation of the `TODAY()` function.
 
-## Experience & background
+## Legal and academic background
 
-- 8+ years in software quality engineering
-- ISTQB Certified Tester
-- PhD in Business Law
-- Prior licensed attorney / advocate and private notarial practice in Ukraine
-- Long academic teaching and legal-research career in commercial/economic, business, and corporate law
-- EU-based independent B2B contractor
-- Available for international remote engagements and Bratislava hybrid/onsite work
+PhD in Business Law, prior licensed attorney/advocate and private notarial practice in Ukraine, and an academic career at Yaroslav Mudryi National Law University. My teaching and research cover commercial and corporate law, corporate rights, technology transfer, EU-oriented corporate-law adaptation, and the regulation of cryptocurrencies, blockchain and virtual assets.
 
-## CVs
+## CVs and availability
 
-- [Senior SDET / Test Automation CV](https://dmytropogribnyy.github.io/Dmytro_Pogribnyy_Senior_SDET_CV.pdf)
-- [Tech & Legal CV](https://dmytropogribnyy.github.io/Dmytro_Pogribnyy_Senior_Technology_CV.pdf)
+- [Legal AI & Technology CV](https://dmytropogribnyy.github.io/Dmytro_Pogribnyy_Legal_AI_Tech_CV.pdf) — Legal AI, Legal Tech and legal-domain evaluation roles
+- [Senior SDET & AI Evaluation CV](https://dmytropogribnyy.github.io/Dmytro_Pogribnyy_Senior_SDET_CV.pdf) — SDET, QA Automation, AI Quality and technical LLM evaluation roles
+
+Available immediately for international remote B2B engagements and Bratislava hybrid/onsite work. ISTQB Certified Tester, with enterprise experience across pharmaceuticals, payments, financial services, SaaS, e-commerce and threat intelligence.
 
 ## Links
 
