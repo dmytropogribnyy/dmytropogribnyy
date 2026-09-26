@@ -17,6 +17,9 @@ My work spans Legal AI, AI assurance and Senior SDET engineering. Python, TypeSc
 
 ## Selected engineering work
 
+### [Legal AI & LLM Evaluation](https://github.com/dmytropogribnyy/legal-llm-evaluation)
+Independent Python contract-review evaluation workflow using public CUAD data, traceable source evidence, deterministic validation, expert-review templates and EU AI Act applicability mapping. Includes bounded OpenAI and Claude Code execution adapters; live model benchmarking and owner legal review remain in progress.
+
 ### [AI QA Factory](https://github.com/dmytropogribnyy/ai-qa-factory)
 Independent Python AI automation project with OpenAI/Claude integration through LiteLLM, custom LLM evaluation, deterministic output validation, MCP tool calling, bounded workflows and human-approval gates.
 
@@ -28,9 +31,6 @@ Public product and engineering case study for an independently developed AI-assi
 
 ### [Moxymind Quality Automation](https://github.com/dmytropogribnyy/moxymind-automation)
 Playwright and TypeScript framework with risk-based UI/API coverage, typed contracts, runtime schema validation, CI execution and diagnostic evidence.
-
-### [Excel Online Automation](https://github.com/dmytropogribnyy/playwright-excel)
-Focused Playwright case covering Excel Online iframes, canvas interaction, clipboard permissions and deterministic validation of the `TODAY()` function.
 
 ## Legal and academic background
 
